@@ -6,7 +6,7 @@ This is a responsive menu application with animations for websites.
 
 # Used Languages: 
 
-The program languages used is:
+The program languages used are:
 
 - HTML5
 - CSS3
